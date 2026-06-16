@@ -4,7 +4,7 @@
 I am an aspiring **Data Analyst** and **Business Analyst** based in Berlin, Germany. With a strong academic background in **BSc Computer Science and Digitisation**, I specialize in transforming raw datasets into actionable business insights through relational database modeling, exploratory data pipelines, and interactive visual dashboards.
 
 - 🏙️ Based in: **Berlin, Germany**
-- 🎓 Education: **BSc Computer Science and Digitisation**
+- 🎓 Education: **BSc (Hons) Computer Science and Digitisation**
 - 🚀 Passionate about: **Business Intelligence, Data Storytelling, Relational Databases, and Machine Learning**
 - ✉️ Connect with me: **[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)** | **[Email](mailto:anusha.subhash@example.com)**
 
